@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ganesh release</name>
-	      <url>http://3.6.89.89:8081/repository/maven-web-release/</url>
+	      <url>http://13.127.139.182:8081/repository/jenkinrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Ganesh Snapshot Nexus Repository </name>
-	      <url>http://3.6.89.89:8081/repository/maven-web-snapshot//</url>
+	      <url>http://13.127.139.182:8081/repository/jenkinssnapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
